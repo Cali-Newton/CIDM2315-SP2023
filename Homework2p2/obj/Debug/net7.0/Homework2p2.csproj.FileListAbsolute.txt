@@ -1,0 +1,15 @@
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\bin\Debug\net7.0\Homework2p2.exe
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\bin\Debug\net7.0\Homework2p2.deps.json
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\bin\Debug\net7.0\Homework2p2.runtimeconfig.json
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\bin\Debug\net7.0\Homework2p2.dll
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\bin\Debug\net7.0\Homework2p2.pdb
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.csproj.AssemblyReference.cache
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.AssemblyInfoInputs.cache
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.AssemblyInfo.cs
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.csproj.CoreCompileInputs.cache
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.dll
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\refint\Homework2p2.dll
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.pdb
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\Homework2p2.genruntimeconfig.cache
+C:\Users\calin\OneDrive\Desktop\CIDM2315\Homework2p2\obj\Debug\net7.0\ref\Homework2p2.dll
