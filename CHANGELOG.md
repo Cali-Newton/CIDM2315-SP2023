@@ -4,3 +4,7 @@
 1/29/2023
   -Uploaded Homework2.cs file
   -Uploaded Homework2p2.cs file
+2/1/2023
+  -Uploaded Homework3p1 turnin.cs file
+  -Uploaded Homework3p2 turnin.cs file
+  -Uploaded Homework3p3 turnin.cs file
