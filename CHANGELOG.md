@@ -14,3 +14,7 @@
  2/13/2023
   -Updated Homework4p1 turnin.cs file
   -Trying to learn how to update file on GitHub
+ 2/17/2023
+  -Uploaded HW5p1 turnin.cs file
+  -Uploaded HW5p2 turnin.cs file
+  -Uploaded HW5p3 turnin.cs file
