@@ -21,7 +21,7 @@ return false;
 }
 public static void createAccount()
 {
-//declare String variables userName,password and retypedPassword
+//declare String variables userName, password and retypedPassword
 String userName,password,retypedPassword;
 //declare integer birthYear
 int birthyear;
@@ -44,8 +44,7 @@ birthyear=Convert.ToInt16(Console.ReadLine());
 //if checkAge() return true,then
 if(checkAge(birthyear))
 {
-//if password and retypedPassword are equal,then displays
-//"Account is created successfully"
+/*if password and retypedPassword are equal,then displays "Account is created successfully" */
 if(password==retypedPassword)
 Console.WriteLine("Account is created successfully");
 
