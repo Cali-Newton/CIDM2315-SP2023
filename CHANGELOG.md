@@ -20,3 +20,6 @@
   -Uploaded HW5p3 turnin.cs file
 3/2/2023
   - Uploaded Homework6 file
+3/3/2023
+  -Uploaded corrected Homework6.cs file
+ 
