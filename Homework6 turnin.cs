@@ -30,6 +30,7 @@ class Student
         return studentGrade;
     }
 }
+// The main program
 class Program 
 {
     static void Main() 
