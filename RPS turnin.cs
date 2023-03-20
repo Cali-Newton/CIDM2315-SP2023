@@ -1,6 +1,6 @@
 ﻿namespace RPS
 {
-    // Method used to take what the player says and subtract points if they win or lose
+    // Method used to take what the player says and adds or subtracts points if they win or lose
     class HumanPlayer
     {
         private int points;
@@ -55,14 +55,14 @@
 
             while (true)
             {
-                Console.WriteLine("****Rock, Paper, Scissors Start!!****");
+                Console.WriteLine("****Rock Paper Scissors, Start!!****");
                 Console.WriteLine("You Have " + h.GetPoints() + " Points");
                
                 Console.WriteLine("Please input your choice: rock, paper or scissors.");
                 string hIn = h.HumanDecision();
                 string cIn = c.ComputerDecision();
-                Console.WriteLine("Your Decision : " + hIn);
-                Console.WriteLine("Computer Decision : " + cIn);
+                Console.WriteLine("--> Your Decision : " + hIn);
+                Console.WriteLine("--> Computer Decision : " + cIn);
                 if (hIn.Equals(cIn))
                 {
                     Console.WriteLine("It's a Tie");
@@ -70,7 +70,7 @@
                 }
                 else
                 {
-                    if ((hIn.ToLower().Equals("scissors") && cIn.ToLower().Equals("paper"))||(hIn.ToLower().Equals("paper") && cIn.ToLower().Equals("rock"))||(hIn.ToLower().Equals("rock") && cIn.ToLower().Equals("seissors")))
+                    if ((hIn.ToLower().Equals("scissors") && cIn.ToLower().Equals("paper"))||(hIn.ToLower().Equals("paper") && cIn.ToLower().Equals("rock"))||(hIn.ToLower().Equals("rock") && cIn.ToLower().Equals("scissors")))
                     {
                         Console.WriteLine("You Win");
                         h.WinRound();
@@ -83,7 +83,7 @@
                 }
                 if (h.GetPoints() <= 0)
                 {
-                    Console.WriteLine("Sorry, you don't have enough points, thanks for playing. Thank you for playing");
+                    Console.WriteLine("Sorry, you don't have enough points, thanks for playing.\nThank you for playing");
                     break;
                 }
                 Console.WriteLine("Play again? Input y to coninue, or n to exit");
